@@ -20,6 +20,6 @@ I am actively involved in IEEE, where I serve as departmental lead of Event Mana
 - Communication  
 
 ## 🎥 Self-Introduction Video
-[Click here to watch my video]((https://drive.google.com/file/d/1vxFTvk0KgBo_i6aax5Ce2hVtt9DUuiIC/view?usp=sharing))
+[Click here to watch my video] (https://drive.google.com/file/d/1vxFTvk0KgBo_i6aax5Ce2hVtt9DUuiIC/view?usp=sharing))
 
 ---
